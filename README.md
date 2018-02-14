@@ -1,3 +1,5 @@
+GraphGrail Ai – is the world’s first Artificial Intelligence platform for Blockchain built on top of Natural Language Understanding technology with the DApps marketplace.
+
 ## Retrieval-Based Conversational Model in Tensorflow (Ubuntu Dialog Corpus)
 
 #### [Please read the blog post for this code](http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow)
@@ -77,4 +79,7 @@ export CUDA_VISIBLE_DEVICES=0
 * if you have error (see below), you maybe use trained model from other machine, and you must retrain model on own machine
 
 >tensorflow.python.framework.errors.NotFoundError: /home/user/git/chatbot/chatbot-retrieval/runs/1481104318
+
+This module is not belong to Graph Grail!!!
+It will be used to integrate with the micro services provided by Graph Grail.
 
